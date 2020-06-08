@@ -1,2 +1,5 @@
 homepage: "https://www.leadinfo.com/"
 documentation: "https://help.leadinfo.com/"
+versions:
+  - sha: 39eec2d1c4ab93039189d58b954182dbec6c82fa
+    changeNotes: Initial release
